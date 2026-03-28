@@ -1,5 +1,3 @@
-package Video_48_TicTacToe;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
